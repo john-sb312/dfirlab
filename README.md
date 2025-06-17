@@ -12,4 +12,4 @@ Website chính thức: https://df.irlab.vn/
 Mọi góp ý, đóng góp về sản phẩm, vui lòng tạo một [Issue](https://github.com/VNCERT-CC/digital-forensics-lab-frontend/issues) hoặc liên hệ [Trung tâm VNCERT/CC](https://vncert.vn). Trân trọng cảm ơn!
 
 # Tại sao lại có trang web này
-Ở thời điểm hiện tại, website https://df.irlab.vn/ không thể truy cập được. Tôi quyết định tạo một github pages với Quartz để có thể truy cập được website tĩnh. Tất cả nội dung đều không phải của tôi. Tôi giữ tất cả link để tải tài nguyên của các challenge về link gốc nằm ở https://github.com/VNCERT-CC/digital-forensics-lab
+Ở thời điểm hiện tại, website https://df.irlab.vn/ không thể truy cập được. Tôi quyết định tạo một github pages với [Quartz](https://quartz.jzhao.xyz/) để có thể truy cập được website tĩnh. Tất cả nội dung đều không phải của tôi. Tôi giữ tất cả link để tải tài nguyên của các challenge về link gốc nằm ở https://github.com/VNCERT-CC/digital-forensics-lab
